@@ -1,4 +1,4 @@
-# Formation Développeur d'application - iOS
+# Formation Développeur d'application - IOS
 
 ### Projet 3 -  Complétez une interface dynamique en SwiftUI
 
