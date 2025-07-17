@@ -1,8 +1,16 @@
 # Formation Développeur d'application - iOS
-# Projet 3 -  Complétez une interface dynamique en SwiftUI
 
-Ce dépôt git contient le projet Taj Mahal commencé par Priyanka dans le cadre du parcours iOS.
+### Projet 3 -  Complétez une interface dynamique en SwiftUI
 
-Faites un fork pour pouvoir le compléter.
+#### Mission
 
-Happy learning !
+* Reprendre et comprendre le code existant.
+* Compléter les écrans pour les utilisateurs en suivant les maquettes.
+* Compléter le reste du code et connecter toutes les parties.
+* Vous assurer que l’application fonctionne correctement.
+
+#### Compétences acquises
+
+* Développer le code d'une interface en utilisant SwiftUI.
+* Gérer du code en utilisant avec Git - GitHub.
+
